@@ -16,31 +16,31 @@
 				<div class="titulo-imagen">
 					<a href="#">Imagen 1</a>
 				</div>
-				<img src="IMG/foto1.jpg">
+				<img src="foto1.jpg">
 			</li>
 			<li>
 				<div class="titulo-imagen">
 					<a href="#">Imagen 2</a>
 				</div>
-				<img src="IMG/foto2.jpg">
+				<img src="foto2.jpg">
 			</li>
 			<li>
 				<div class="titulo-imagen">
 					<a href="#">Imagen 3</a>
 				</div>
-				<img src="IMG/foto3.jpg">
+				<img src="foto3.jpg">
 			</li>
 			<li>
 				<div class="titulo-imagen">
 					<a href="#">Imagen 4</a>
 				</div>
-				<img src="IMG/foto4.jpg">
+				<img src="foto4.jpg">
 			</li>
 			<li>
 				<div class="titulo-imagen">
 					<a href="#">Imagen 5</a>
 				</div>
-				<img src="IMG/foto5.jpg">
+				<img src="foto5.jpg">
 			</li>
 		</ul>
 	</div>
